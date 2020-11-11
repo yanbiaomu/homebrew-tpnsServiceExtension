@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Newtpnsserviceextension < Formula
+class NewTpnsSvcExt < Formula
   desc "自动创建TPNSService通知扩展插件"
   homepage "https://github.com/yanbiaomu/tpns-service-extension.git"
   url "https://github.com/yanbiaomu/tpns-service-extension.git", :using => :git, :tag => '0.0.1'
